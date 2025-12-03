@@ -10,8 +10,6 @@ My main tech stack is react, typescript, tailwind, and framer motion.
 
 I’ve got a bunch of pinned projects, but my favorite is the 
 
-If you want to learn how i do it, [my books and course](https://www.bunnyhop.ai/) are available here!
-
 #### Fun Facts:
 
 * I like to drink and make coffee 
